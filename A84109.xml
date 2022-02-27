@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Essex his letter to Master Speaker. July 9. 1643. With some briefe animadversions on the said letter.</title>
+            <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84109</idno>
+            <idno type="STC">Wing E3322</idno>
+            <idno type="STC">Thomason E64_3</idno>
+            <idno type="STC">ESTC R1626</idno>
+            <idno type="EEBO-CITATION">99859999</idno>
+            <idno type="PROQUEST">99859999</idno>
+            <idno type="VID">155378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155378)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E64[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Essex his letter to Master Speaker. July 9. 1643. With some briefe animadversions on the said letter.</title>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed  by Henry Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646. --  Earle of Essex his letter to Master Speaker.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155378:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>THE EARLE OF ESSEX HIS LETTER TO Maſter Speaker.</p>
+            <p>
+               <hi>July</hi> 9. 1643.</p>
+            <p>With ſome briefe Animadverſions on the ſaid Letter.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Henry Hall,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155378:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:155378:2"/>
+            <!-- PDF PAGE 44 -->
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Maſter SPEAKER,</salute>
+                  </opener>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">I</seg>
+                     </hi> Would now have given you the true Relation of the skir<g ref="char:EOLhyphen"/>miſh on Sunday last between ſome of my Horſe and the Enemies neare <hi>Bucking<g ref="char:EOLhyphen"/>ham;</hi> but Sir <hi>Philip Sta<g ref="char:EOLhyphen"/>pleton</hi> and Colonell <hi>Goodwin</hi> being then up<g ref="char:EOLhyphen"/>on the place, I referre that Relation to them: ſince when being informed that the King had ſent more Forces to <hi>Buckingham</hi> to main<g ref="char:EOLhyphen"/>tain that Place and bring thoſe parts into contribution, and give us battaile there: here<g ref="char:EOLhyphen"/>upon I advanced with the Armie towards that Town, where the Enemie ſtayed untill the Ar<g ref="char:EOLhyphen"/>mie came within two miles of them, and then
+<pb n="2" facs="tcp:155378:3"/>
+                     <!-- PDF PAGE 45 -->made haſte away towards <hi>Banburie,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding they had perſwaded the People that they would not quit the Place till they had beaten me out of the Countie. I then under<g ref="char:EOLhyphen"/>ſtanding that they were fled held it not fit to go to the Town with mine Armie, but ſent Colo<g ref="char:EOLhyphen"/>nell <hi>Middleton</hi> with ſome Horſe to clear that Town and Coaſt, which they did, and then ad<g ref="char:EOLhyphen"/>viſed where to quarter with moſt conveniencie for our Armie, and moſt readie for the Enemie, the Queenes Forces being like to joine with them verie ſuddenly; and that our Armie may better ſecure the Parliament and Citie of <hi>London</hi> and Counties adjacent, and be more ſafely ſupplied with monies from <hi>London,</hi> and lie most conveniently to joyne with the Forces with the Lord <hi>Gray</hi> in <hi>Northamp<g ref="char:EOLhyphen"/>tonſhire,</hi> J was adviſed to march to great <hi>Brickhill,</hi> as the most fit Place for all purpo<g ref="char:EOLhyphen"/>ſes. The Enemie being ſo ſtrong in Horſe, and this Armie being neither recrewted with Horſes, Armes, nor Saddles, it is impoſsible to
+<pb n="3" facs="tcp:155378:3"/>
+                     <!-- PDF PAGE 45 -->keep the Countries from being plundered, nor to fight with them but where and when they list, we being forced when we move to march with the whole Armie, which can be but ſlow marches, ſo that the Countries must ſuffer much wrong, and the cries of poor People are infinite. If it were thought fit to ſend to his Majeſtie to have Peace; with the ſettling of Religion, the Lawes and Liberties of the Sub<g ref="char:EOLhyphen"/>ject, and to bring unto juſt Triall thoſe chiefe Delinquents that have brought all this miſ<g ref="char:EOLhyphen"/>chiefe to both Kingdomes; and as my Lord of <hi>Briſtol</hi> ſpake in Parliament, how we may be ſecured to have thoſe things performed here<g ref="char:EOLhyphen"/>after; or elſe (if his Majeſtie ſhall pleaſe to abſent himſelfe) there may be a day ſet down to give a period to all theſe unhappy di<g ref="char:EOLhyphen"/>ſtractions by a Battaile, which when and where they ſhall chooſe, who may be thought any way indifferent, J ſhall be ready to per<g ref="char:EOLhyphen"/>forme that dutie J owe you. And that it may not bring with it a Treatie, the Propoſitions
+<pb n="4" facs="tcp:155378:4"/>
+                     <!-- PDF PAGE 46 -->to be agreed upon between his Majeſtie and the Parliament may be ſent to ſuch an indiffe<g ref="char:EOLhyphen"/>rent place that both Armies may be drawn near one to the other, that if Peace be not con<g ref="char:EOLhyphen"/>cluded, it may be ended by the ſword; no Offi<g ref="char:EOLhyphen"/>cers of the Armie to be of the Committee, nor any entercourſe to be between them. So I am</p>
+                  <closer>
+                     <signed>Your aſſured Friend <hi>ESSEX.</hi>
+                     </signed>
+                     <dateline>Great Brickhil, <date>
+                           <hi>Iuly 9. 1643.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="5" facs="tcp:155378:4"/>
+               <!-- PDF PAGE 46 -->
+THis Letter will need no Interpreter, onely the Reader may pleaſe to obſerve what is now the chiefe taske of the Rebels Armie <hi>[To ſecure the Parliament and Citie of Lon<g ref="char:EOLhyphen"/>don.]</hi> for as that wretched Citie hath been both Midwife and Nurſe of this Rebellion, which ſome deſperate Male-contents had cunningly begotten; ſo now their Generall muſt ſo order his buſineſſe, that neither the one nor the other be brought to an accompt: for if the <hi>Members</hi> be diſtur<g ref="char:EOLhyphen"/>bed, the <hi>Contrivance</hi> would ceaſe, and not to protect their Citizens would ſtop <hi>Contribution,</hi> and ſo their Armie (and this bloudie Civill War) would melt and diſſolve into our former happie peace.</p>
+            <p>Next, conſider in what caſe their Armie now apprehends it ſelfe, who foreſeeing <hi>Her Majestie</hi> would advance out of the North, Declared it was not in their power to prevent Her, but that (maugre all they could do to the contrary) <hi>The Queenes Forces would ſuddenly be joyned to the Kings:</hi> which accordingly was done, Her Majeſtie meeting her Lord and Soveraigne in <hi>Keinton</hi> Field, and thereby manifeſted that She valued their Forces no more than their lies and ſlanders.</p>
+            <p>Again, you may obſerve what excellent good Maſters the Authours of this Rebellion have ſtill approved themſelves, that their Generall the Earle of <hi>Eſſex</hi> (whoſe repute in the world had caſt ſome credit on theſe mens deſignes) ſhould now be rewarded with ſo ſlight and cheap an eſtimation, as if he had been a common ſtander by. For though in the be<g ref="char:EOLhyphen"/>ginning they ſmooth'd and courted him to undertake their Cauſe; and (after to continue him) paſſed a fine Vote, <hi>That</hi> Robert <hi>Earle of</hi> Eſſex <hi>had deſerved ſo highly, that He and his Houſe ſhould be recorded to all Poſteritie for their ſervice done to the Common-wealth:</hi> whereby they heaved Him up to ſuch a value among the people, that a meer Letter of his to <hi>Iſaak Pennington</hi> from <hi>Northampton</hi> was able to command an hun<g ref="char:EOLhyphen"/>dred
+<pb n="6" facs="tcp:155378:5"/>
+               <!-- PDF PAGE 47 -->thouſand pounds in foure dayes; yet now is he ſunke to ſo low a rate in their affections, that He is fain to complain, and (as here He doth) beg not onely for <hi>Men, Money,</hi> and <hi>Horſes,</hi> but for <hi>Saddles,</hi> and ſuch other particulars as were not wont to finde room in his Excellencies Letters: nay, and <hi>Iſaak Pennington's</hi> own Chaplain (one that for ſtealing a Gown and his good abilitie in Learning was fain to leave the Uni<g ref="char:EOLhyphen"/>verſitie) doth now preach againſt Him, and whether it will ſtay at a meer neglect, themſelves beſt know. Nor is it their Generall's caſe alone, Sir <hi>Iohn Hotham,</hi> Colonell <hi>Eſſex,</hi> with others (too many now to mention) have as amply been re<g ref="char:EOLhyphen"/>warded; the Colonell impriſoned becauſe he was too fair a Rebell, and not ſo vile an Enemie as that bloudie Coward <hi>Nathaniel Fines;</hi> and <hi>Hotham</hi> (with his Son and Familie) impriſoned, wounded, pillaged of all his vaſt Treaſure, though he was the firſt great Stickler in their Cauſe, and if he opened not the firſt mouth, yet he held up the firſt hand againſt His Majeſtie; for without <hi>Hotham</hi> they might have Voted and gnaſhed their teeth againſt the King, but gone no farther, he being then poſſeſſour of His Majeſties Maga<g ref="char:EOLhyphen"/>zine. But <hi>Hotham</hi> was rich, which (as their caſe ſtands) is againſt the Priviledges of Parliament, they being reſolved (as <hi>Suetonius</hi> ſayes of <hi>Veſpaſian</hi>) to make their Agents <hi>Sponges to ſuck in all they can,</hi>
+               <note place="margin">In vità Fl. Veſpaſiant.</note> 
+               <hi>and after ſqueeze them for their own uſe.</hi>
+            </p>
+            <p>The next thing obſervable is an ingenuous confeſſion (of him that knowes beſt) who is now Maſter of the Field; <hi>The Enemie</hi> (ſayes the Earle) <hi>is ſo ſtrong in Horſe, and this Armie being neither recrewted with Horſes, Armes, &amp;c. it is impoſsible to keep the Countrey, &amp;c. nor to fight with them but when and where they liſt, We being forced when we move, to march with the whole Armie,</hi> to keep our ſelves from being broken. Nor can the Earle confide in thoſe few Forces he hath, for he com<g ref="char:EOLhyphen"/>plaines in his late Letter to the Countie of <hi>Eſſex,</hi> of <hi>the looſ<g ref="char:EOLhyphen"/>neſſe
+<pb n="7" facs="tcp:155378:5"/>
+                  <!-- PDF PAGE 47 -->and inconſtancie of his Souldiers;</hi> by <hi>looſneſſe</hi> he meanes running away from him, and by <hi>inconſtancie</hi> running away from before Us, when we offer to charge them. But the words themſelves are full and home.</p>
+            <p>And I cannot paſſe that the Earle is troubled at <hi>thoſe horri<g ref="char:EOLhyphen"/>ble outrages done to the Countries;</hi> and I confeſſe I am glad to ſee Him returned to ſo much ſenſe of his Honour, that He findes himſelfe aggrieved at theſe deſperate villanies. For (as He here ſaith) <hi>The cries of the poore people are infinite;</hi> but who have been the Authours, or are the Actours in theſe common robberies, ſhall be recorded to Poſteritie, to the laſting infamie of theſe bloudy Hypocrites, who cut our throats in courteſie, and are not ſatisfied with our Money, unleſſe they have our lives. And it is no wonder if my Lord be weary of ſuch as theſe.</p>
+            <p>Now if you take notice that the Earle deſires them, <hi>to ſend to His Majeſtie to have Peace, with the ſettling of Religion, the Lawes and Liberties of the Subject, and to bring unto juſt triall thoſe chiefe Delinquents that have brought all this miſchiefe upon both Kingdomes.</hi> I muſt needs tell you they are no new words; for His Majeſtie made this motion too often now to menti<g ref="char:EOLhyphen"/>on; nay, (upon an exact ſurvay) this very thing hath been called upon by His Majeſtie above ſixſcore ſeverall times in His Declarations and Meſſages; that (if poſſible) He might have ſtopped this iſſue of bloud, which ſince hath run ſo freely in all parts of this Kingdome. But whether the Earles motion for Peace, be as reall and cleare as His Majeſties was heretofore, will not eaſily be evinced; onely it is manifeſt, the Earles thoughts did not ſo farre abhorre the very name of Peace as others of his Faction, for on the reading of this Letter among the remnant in the Lower Houſe, ſuch a noiſe was made, and ſuch a duſt raiſed, both in the Houſe, and among their Faction in the Citie, as if the Earle had
+<pb n="8" facs="tcp:155378:6"/>
+               <!-- PDF PAGE 48 -->now perſwaded them to remember themſelves, &amp; ſubmit to His Majeſtie, which (you will ſay) would quickly have been Voted for another new and <hi>horrible Plot.</hi> And for <hi>bringing Delinquents to a Legall triall,</hi> let them conſider thoſe they have tried already, and thoſe they Voted ſhould never be Tried; the Earle of <hi>Strafford,</hi> Maſter <hi>Tomkins,</hi> Maſter <hi>Cha<g ref="char:EOLhyphen"/>loner,</hi> Maſter <hi>Yeomans,</hi> Maſter <hi>Bouchier,</hi> theſe (to ſay but ſo) received their Trials: and the Lord <hi>Kimbolton,</hi> Maſter <hi>Hollis,</hi> S<hi rend="sup">r</hi> 
+               <hi>Arthur Haſterig,</hi> (M. <hi>Hampden</hi>) M. <hi>Pym,</hi> and M. <hi>Strode,</hi> were Declared too innocent to be ſtained with a purgation. Re<g ref="char:EOLhyphen"/>member for what end the former died, and the later lived, I ſay no more.</p>
+            <p>And it is worth your notice how he quoats the Earle of <hi>Briſtol</hi> for words ſpoken by His Lordſhip in Parliament; the words are in that excellent and ſeaſonable Speech made by his Lordſhip for <hi>Accommodation,</hi> May 20. 1642. which (becauſe they are excellent words) I ſhall repeat them; <hi>The greateſt difficultie</hi> (ſayes my Lord) <hi>of Accommodation may ſeem to be, how that which is agreed upon, may be ſecured for the future; this is commonly the laſt point in Treaties betwixt Prin<g ref="char:EOLhyphen"/>ces, and of greateſt niceneſſe; but much more betwext a King and his Subjects, where that confidence and beleefe which ſhould be be<g ref="char:EOLhyphen"/>twixt them, is once loſt; and to ſpeak clearly, I feare, that this may be our caſe, for it is much eaſier to compoſe differences ariſing from Reaſon (yea even from wrongs) then it is to ſatisfie</hi> Jealouſies, <hi>which ariſing out of diffidence and diſtruſt, grow and are varied upon every occaſion.</hi> Which Speech the Earle of <hi>Eſſex</hi> is pleaſed now to take up, ingenuouſly confeſſing, it was prudent ſober counſell, for indeed it foretold them what ſince we all have felt, as any that peruſe it may evidently perceive.</p>
+            <p>Once more you may obſerve, that the Earle in this His Motion for a Treatie, would exclude <hi>all Officers of his Armie from being of the Committee;</hi> for my Lord ſees too many de<g ref="char:EOLhyphen"/>cayed
+<pb n="9" facs="tcp:155378:6"/>
+               <!-- PDF PAGE 48 -->Members have Voted themſelves to be Colonels and great Officers, who being their own Carvers have found ſweet and frequent Pay-dayes, and would therefore be un<g ref="char:EOLhyphen"/>willing to recurre into a beggarly Peace.</p>
+            <p>But (to trouble you with no more) the Earle hath recei<g ref="char:EOLhyphen"/>ved ſo ſmall encouragement from His ingratefull Patrons, that He wiſhes a diſpatch whether by War or Peace, and therefore tels them here, that if they have no minde to <hi>com<g ref="char:EOLhyphen"/>poſe theſe unhappy diſtractions</hi> fairly, that there might be <hi>a day ſet down to give a period to all by a Battaile;</hi> which if it be a<g ref="char:EOLhyphen"/>greed upon, he ſayes, <hi>He ſhall performe that dutie which he owes unto them:</hi> but what that <hi>dutie he owes unto them</hi> is (for he ſpeakes indefinitely and comes not to particulars) lies con<g ref="char:EOLhyphen"/>cealed in his own breaſt. And ſure I ſhould believe it were not much, conſidering he hath ventured his life and fortune in their ſervice, and yet hath arrived at no greater eſtimate in their eyes, than to be next to Miſtreſſe <hi>Ven,</hi> farre inferiour to my Ladie <hi>Waller,</hi> who expects every houre (by partici<g ref="char:EOLhyphen"/>pation with her Husband) to be Ladie Generall.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
